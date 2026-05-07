@@ -1,0 +1,11 @@
+player_id,name,position,jersey
+1,Sarah Johnson,Guard,12
+2,Maya Chen,Forward,23
+3,Alex Rivera,Center,45
+4,Jordan Lee,Guard,7
+5,Taylor Brooks,Forward,31
+6,Emma Davis,Guard,3
+7,Sophia Martinez,Forward,15
+8,Olivia Anderson,Center,50
+9,Ava Thompson,Guard,10
+10,Isabella Garcia,Forward,22
