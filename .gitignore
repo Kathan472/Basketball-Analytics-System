@@ -11,11 +11,32 @@ a.out
 *.o
 *.obj
 
+# Static / Dynamic libraries
+*.so
+*.dylib
+*.dll
+*.a
+
 # Build folders
 build/
+cmake-build-debug/
+cmake-build-release/
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+compile_commands.json
 
 # VS Code
 .vscode/
 
 # JetBrains
 .idea/
+
+# Xcode
+DerivedData/
+
+# Temporary files
+*.log
+*.tmp
