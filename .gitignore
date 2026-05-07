@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+
+# Executables
+*.out
+*.exe
+program
+a.out
+
+# Object files
+*.o
+*.obj
+
+# Build folders
+build/
+
+# VS Code
+.vscode/
+
+# JetBrains
+.idea/
