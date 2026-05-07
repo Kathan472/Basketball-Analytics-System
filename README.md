@@ -127,15 +127,27 @@ Shot values are dynamically calculated using shot distance:
 
 ---
 
-# Build Instructions
+# Installation & Setup
 
-## Compile
+## Clone Repository
+
+```bash
+git clone https://github.com/Kathan472/Basketball-Analytics-System.git
+```
+
+## Navigate Into Project Directory
+
+```bash
+cd Basketball-Analytics-System
+```
+
+## Build Project
 
 ```bash
 make
 ```
 
-## Run
+## Run Program
 
 ```bash
 ./program
@@ -146,13 +158,13 @@ make
 # Screenshots
 
 ## Main Menu
-_Add screenshot here_
+![Main Menu](screenshots/main-menu.png)
 
 ## Game Simulation
-_Add screenshot here_
+![Game Simulation](screenshots/game-simulation.png)
 
 ## Analytics Output
-_Add screenshot here_
+![Analytics Output](screenshots/analytics-output.png)
 
 ---
 
