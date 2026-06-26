@@ -168,8 +168,8 @@ void Game::readPlayerFile(const string& filename) {
     // player_id (int), name (string), position (string), jersey (int)
     // Create Player(id, name, pos, jersey) and store in players[]
     // Increment player_count for each player loaded
-    ifstream file; 
-    
+    ifstream file;
+
     // Open the file
     file.open(filename);
 
